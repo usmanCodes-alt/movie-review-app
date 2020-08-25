@@ -9,7 +9,7 @@ When the user types a name of the movie in the search bar the name of the movie 
 
 ### Search Result
 
-![searching movie](./images/API_result.png)
+![searching movie](./images/API_result.PNG)
 <br>
 
 ## Saving Movie
@@ -19,5 +19,5 @@ When the user click on the green **Add to favourites** button, this tiggers a re
 
 ## Saved Movies
 
-![saved movies](./images/saved.png)
+![saved movies](./images/saved.PNG)
 The user can delete any movie from the html table they want.
